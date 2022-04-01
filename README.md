@@ -1,6 +1,6 @@
 # Hello I’m @luca-rigutti
-- My website: [lucarigutti.it](lucarigutti.it)
 - I'm a backend developer
+- From Italy
 
 This is a list of tecnology I use:
 - HTML
@@ -16,9 +16,9 @@ This is what I'm learning:
 - Docker
 
 My contacts:
-- My website: [lucarigutti.it](lucarigutti.it)
+- My website: [lucarigutti.it](https://lucarigutti.it)
 - Linkedin profile: [link](https://www.linkedin.it/in/lucarigutti)
-- Instagram account: [@luca_rigutti](instagram.com/luca_rigutti)
+- Instagram account: [@luca_rigutti](https://instagram.com/luca_rigutti)
 <!---
 luca-rigutti/luca-rigutti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
