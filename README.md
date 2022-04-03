@@ -25,4 +25,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ## My last article on my website
 <!-- BLOG-POST-LIST:START -->
+- [Site editor di WordPress: Nuova feature](https://lucarigutti.it/wordpress/site-editor-di-wordpress-nuova-feature/)
+- [Logseq: open-source knowledge base](https://lucarigutti.it/free-and-open-source-software/logseq-open-source-knowledge-base/)
+- [Rest API di wordpress](https://lucarigutti.it/wordpress/rest-api-di-wordpress/)
 <!-- BLOG-POST-LIST:END -->
