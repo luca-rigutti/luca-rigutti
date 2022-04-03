@@ -23,7 +23,7 @@ My contacts:
 luca-rigutti/luca-rigutti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## My last article on my website
+## My last article on my website (write in italian language)
 <!-- BLOG-POST-LIST:START -->
 - [Site editor di WordPress: Nuova feature](https://lucarigutti.it/wordpress/site-editor-di-wordpress-nuova-feature/)
 - [Logseq: open-source knowledge base](https://lucarigutti.it/free-and-open-source-software/logseq-open-source-knowledge-base/)
