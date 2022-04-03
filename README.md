@@ -23,3 +23,6 @@ My contacts:
 luca-rigutti/luca-rigutti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+## My last article on my website
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
