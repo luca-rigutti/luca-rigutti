@@ -29,3 +29,8 @@ You can click the Preview link to take a look at your changes.
 - [Logseq: open-source knowledge base](https://lucarigutti.it/free-and-open-source-software/logseq-open-source-knowledge-base/)
 - [Rest API di wordpress](https://lucarigutti.it/wordpress/rest-api-di-wordpress/)
 <!-- BLOG-POST-LIST:END -->
+
+## Github stats[^1]
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luca-rigutti&show_icons=true&theme=dark) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luca-rigutti&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) |
+| ------------- | -----:|
+[^1]: https://github.com/anuraghazra/github-readme-stats
