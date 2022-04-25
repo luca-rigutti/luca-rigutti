@@ -23,6 +23,10 @@ My contacts:
 luca-rigutti/luca-rigutti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## Some of my repository:
+- [Woocommerce downsell](https://github.com/luca-rigutti/woocommerce-downsell)
+
 ## My last article on my website (write in italian language)
 <!-- BLOG-POST-LIST:START -->
 - [Site editor di WordPress: Nuova feature](https://lucarigutti.it/wordpress/site-editor-di-wordpress-nuova-feature/)
