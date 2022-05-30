@@ -29,9 +29,9 @@ You can click the Preview link to take a look at your changes.
 
 ## My last article on my website (write in italian language)
 <!-- BLOG-POST-LIST:START -->
+- [Magento 2: Appunti da un neofita](https://lucarigutti.it/magento/magento-2-appunti-da-un-neofita/)
 - [Site editor di WordPress: Nuova feature](https://lucarigutti.it/wordpress/site-editor-di-wordpress-nuova-feature/)
 - [Logseq: open-source knowledge base](https://lucarigutti.it/free-and-open-source-software/logseq-open-source-knowledge-base/)
-- [Rest API di wordpress](https://lucarigutti.it/wordpress/rest-api-di-wordpress/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Github stats[^1]
