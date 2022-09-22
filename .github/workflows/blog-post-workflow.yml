@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   schedule:
     # Runs at midnight monday
-    - cron: '0 0 * * 1'
+    - cron: '0 1 */14 * *'
 
 jobs:
   update-readme-with-blog:
