@@ -9,16 +9,16 @@ This is a list of tecnology I use:
 - PHP
   - Framework: Laravel
   - Wordpress
+- Python
+  - Framework: Django
 
-This is what I'm learning:
-- React
-- Magento
 - Docker
 
 My contacts:
 - My website: [lucarigutti.it](https://lucarigutti.it)
 - Linkedin profile: [link](https://www.linkedin.it/in/lucarigutti)
 - Instagram account: [@luca_rigutti](https://instagram.com/luca_rigutti)
+- [Stackoverflow](https://stackoverflow.com/users/19721474/luca-rigutti)
 <!---
 luca-rigutti/luca-rigutti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
